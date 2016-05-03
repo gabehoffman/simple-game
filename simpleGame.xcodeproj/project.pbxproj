@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		833D21841CD8FE0A0018C767 /* Preview1.png in Resources */ = {isa = PBXBuildFile; fileRef = 833D21831CD8FE0A0018C767 /* Preview1.png */; };
 		8346CFAE1CAB29A400674D01 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8346CFAD1CAB29A400674D01 /* AppDelegate.swift */; };
 		8346CFB01CAB29A400674D01 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8346CFAF1CAB29A400674D01 /* ViewController.swift */; };
 		8346CFB31CAB29A400674D01 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8346CFB11CAB29A400674D01 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		833D21831CD8FE0A0018C767 /* Preview1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Preview1.png; sourceTree = "<group>"; };
 		8346CFAA1CAB29A400674D01 /* simpleGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = simpleGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8346CFAD1CAB29A400674D01 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8346CFAF1CAB29A400674D01 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 				8346CFB41CAB29A400674D01 /* Assets.xcassets */,
 				8346CFB61CAB29A400674D01 /* LaunchScreen.storyboard */,
 				8346CFB91CAB29A400674D01 /* Info.plist */,
+				833D21831CD8FE0A0018C767 /* Preview1.png */,
 			);
 			path = simpleGame;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				8346CFB81CAB29A400674D01 /* LaunchScreen.storyboard in Resources */,
 				8346CFB51CAB29A400674D01 /* Assets.xcassets in Resources */,
+				833D21841CD8FE0A0018C767 /* Preview1.png in Resources */,
 				8346CFB31CAB29A400674D01 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -308,6 +312,7 @@
 				8346CFBE1CAB29A400674D01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
